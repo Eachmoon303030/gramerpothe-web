@@ -1,0 +1,17 @@
+{
+  "name": "Gramer Pothe",
+  "short_name": "Gramer Pothe",
+  "description": "A bicycle ride down a village road in Bangladesh. © 2026 Eachmoon Barman (EB). All rights reserved.",
+  "lang": "en",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#CFE4EE",
+  "theme_color": "#5F8F3A",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
