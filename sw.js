@@ -1,7 +1,7 @@
 // © 2026 Eachmoon Barman (EB). All rights reserved.
 // Offline cache for Gramer Pothe. The publish script fills in the cache name (version + commit)
 // and the file list, so every publish makes phones fetch the new version.
-const CACHE = 'gramerpothe-0.1.0-5eb4da2';
+const CACHE = 'gramerpothe-0.2.1-600a43b';
 const FILES = ["./","apple-touch-icon.png","author_photo.jpg","fonts/hind-bn-400.woff2","fonts/hind-bn-600.woff2","fonts/hind-lat-400.woff2","fonts/hind-lat-600.woff2","icon-192.png","icon-512.png","icon-maskable-512.png","index.html","manifest.webmanifest","vendor/three.LICENSE.txt","vendor/three.min.js"];
 
 self.addEventListener('install', (e) => {
